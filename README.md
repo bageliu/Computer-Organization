@@ -1,2 +1,2 @@
 # Computer-Organization
-Run with carus-verilog on Linux
+Run with Icarus-verilog on Linux
